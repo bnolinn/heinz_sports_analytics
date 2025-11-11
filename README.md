@@ -1,2 +1,2 @@
-# heinz_sports_analytics
+# Heinz Sports Analytics Club
 Carnegie Mellon's Heinz College Sports Analytics Club
